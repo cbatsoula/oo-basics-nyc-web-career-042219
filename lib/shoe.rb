@@ -1,6 +1,5 @@
 class Shoe
-Shoe.new
-  def initalize(brand)
+  def initalize
     @brand = brand
   end
   
