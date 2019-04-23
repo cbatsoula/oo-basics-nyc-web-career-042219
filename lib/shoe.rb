@@ -31,7 +31,7 @@ class Shoe
     @condition
   end
   def cobble
-    @conditon = new
+    @conditon = "new"
     puts "Your shoe is as good as new!"
   end
   
